@@ -1,0 +1,4 @@
+## The following requirements were added by pip freeze:
+Flask==2.3.2
+youtube-dl==2021.12.17
+gunicorn==20.1.0
